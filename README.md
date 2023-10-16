@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @MicrosoftFabric
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**❌ thousands of ways to do something wrong.<br>
+✅ multiple ways to do something right.<br>
+🚀 We aim to provide one of these right paths to Microsoft Fabric implementations. 🚀**
 
-<!---
-MicrosoftFabric/MicrosoftFabric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**We adhere to the following principles:**
+✅ 80/20
+✅ Templates > Frameworks
+✅ Scalable
