@@ -3,7 +3,8 @@
 🚀 We aim to provide one of these right paths to Microsoft Fabric implementations. 🚀**
 
 **We adhere to the following principles:**<br>
-✅ 80/20<br>
+✅ 80/20 rule
+✅ Keep It Simple & Stupid
 ✅ Templates > Frameworks<br>
 ✅ Scalable
 
