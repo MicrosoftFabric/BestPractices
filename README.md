@@ -6,3 +6,5 @@
 ✅ 80/20<br>
 ✅ Templates > Frameworks<br>
 ✅ Scalable
+
+![image](https://github.com/MicrosoftFabric/MicrosoftFabric/assets/135139113/7c2ca4af-6288-4a6d-8418-742a01cd7bab)
